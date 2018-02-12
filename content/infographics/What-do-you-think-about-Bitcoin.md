@@ -19,7 +19,6 @@ We all love Satoshi but what Bitcoin has become is not what he intended. Time an
   * Bitcoin is NOT decentralized. Three mining pools control all of Bitcoin.
   * Transaction speeds can take hours or even days.
   * Due to centralization, Bitcoin is highly vulnerable to a 51% attack.
-  * $40 transaction fees and climbing!
   * Nodes can be arbitrarily taken over.
 
 ## Skycoin is Better
